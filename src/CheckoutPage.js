@@ -108,6 +108,7 @@ const CheckoutPage = () => {
                         display: "flex",
                         alignItems: "center",
                         marginTop: "3px",
+                        marginLeft: "60px",
                         borderBottom: "none",
                       }}
                     >
