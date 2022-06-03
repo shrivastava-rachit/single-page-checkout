@@ -2,7 +2,6 @@ import "./OrderSummary.css";
 import * as React from "react";
 import Button from "@mui/material/Button";
 import LocalOfferIcon from "@mui/icons-material/LocalOffer";
-import ArrowCircleDownIcon from "@mui/icons-material/ArrowCircleDown";
 import LibraryBooksRoundedIcon from "@mui/icons-material/LibraryBooksRounded";
 import { promoCodeList } from "../data/promoCodeData";
 
@@ -35,6 +34,7 @@ const OrderSummary = (props) => {
       setAppliedPromo(
         ` ${selectedPromoCode.promoName} is not applicable for this order value.`
       );
+      setFinalPrice(cartAmount);
     }
   };
 
