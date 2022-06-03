@@ -1,4 +1,4 @@
-# single-page-checkoout
+# single-page-checkout
 
 # Code Challenge - CORPTEC Technology Partners Australia
 
