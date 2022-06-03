@@ -1,0 +1,22 @@
+.checkout-table-container-main {
+  display: flex;
+  justify-content: center;
+  margin: 5rem;
+}
+
+.checkout-table-container {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin-right: 30px;
+  background-color: #d3d3d330;
+}
+
+.checkout-table-head {
+  font-weight: bold;
+  color: darkslategrey;
+}
+
+.checkout-table-heading {
+  margin-left: 2.5vw;
+}
