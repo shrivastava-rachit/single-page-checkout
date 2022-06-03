@@ -36,6 +36,7 @@ const OrderSummary = (props) => {
       );
       setFinalPrice(cartAmount);
     }
+    onDisableCartSection();
   };
 
   const addPromoCode = (id) => {
