@@ -1,7 +1,5 @@
 # single-page-checkout
 
-# Code Challenge - CORPTEC Technology Partners Australia
-
 # Steps to run the application:
 
 Step 1 - Go to the repository by using the link (https://github.com/shrivastava-rachit/single-page-checkoout)
